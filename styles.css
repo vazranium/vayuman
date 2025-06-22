@@ -61,9 +61,8 @@ body {
 }
 
 .hero-content {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0);
     padding: 40px;
     border-radius: 10px;
 }
 
-/* Add more styles for other sections */
