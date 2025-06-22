@@ -1,4 +1,7 @@
 /* styles.css */
+
+@import url('https://fonts.cdnfonts.com/css/ds-digital');
+
 :root {
     --primary-color: #c8a97e;
     --secondary-color: #333;
@@ -13,7 +16,7 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'DS-Digital', sans-serif;
     line-height: 1.6;
 }
 
@@ -30,7 +33,7 @@ body {
 }
 
 .logo {
-    color: var(--white);
+    color: #FF9900;
     font-size: 24px;
     font-weight: bold;
 }
@@ -41,7 +44,7 @@ body {
 }
 
 .nav-links a {
-    color: var(--white);
+    color: #FF9900;
     text-decoration: none;
     padding: 0 15px;
     transition: color 0.3s;
