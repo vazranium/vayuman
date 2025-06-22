@@ -87,8 +87,7 @@ body {
         }
 
 /* Footer Bar Style */
-.footer {
-    position: fixed;
+.footer {    
     bottom: 0;
     width: 100%;
     background: rgba(0, 0, 0, 0.95);
