@@ -24,6 +24,11 @@ body {
     overflow-x: hidden; /* Prevent horizontal scroll */
 }
 
+ a {
+    text-decoration: none;
+     color:var(--orange);     
+}
+
 /* Navigation - Responsive */
 .navbar {
     position: fixed;
